@@ -122,34 +122,29 @@
                   </div>
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
-                      <p><span class="title-s">Nombre: </span> <span>Junior Sánchez</span></p>
-                      <p><span class="title-s">Perfil: </span> <span>Desarrollador Front-end</span></p>
+                      <p><span class="title-s">Nombre: </span> <span>Junior Javier Sánchez</span></p>
+                      <p><span class="title-s">Perfil: </span> <span>Desarrollador BACK-END</span></p>
                       
-                      <p><span class="title-s">Teléfono: </span> <span>927594391</span></p>
+                      <p><span class="title-s">Celular: </span> <span>927594391</span></p>
                       <p>Juniorjaviersanchezz@gmail.com</span></p>
                     </div>
                   </div>
                 </div>
                 <div class="skill-mf">
                   <p class="title-s">Habilidad</p>
-                  <span>HTML</span> <span class="pull-right">100%</span>
+                  <span>FRONT-END [Html5, Css3, Javascript, Ajax, Tailwindcss,Vue]</span> <span class="pull-right">80%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>CSS3</span> <span class="pull-right">100%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
-                      aria-valuemax="100"></div>
-                  </div>
-                  <span>PHP</span> <span class="pull-right">95%</span>
+                  <span>BACK-END [PHP, Laravel, Java, Spring boot]</span> <span class="pull-right">95%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                  <span>Base de Datos [MySQL - PostgreSQL]</span> <span class="pull-right">95%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                 </div>
@@ -165,13 +160,13 @@
                     Hola, soy Junior Sánchez y soy desarrollador Web, me encanta programar y todo lo relacionado con Internet y las nuevas tecnologías, crear cosas y enseñar a los demás
                   </p>
                   <p class="lead">
-                    Tengo experiencia en diferentes campos como Desarrollador de software en la municipalidad de Chiclayo, en Hidronorte SRL  y otras empresas. También en soporte técnico en el área de Tecnología de Información del Hospital regional de Lambayeque, en la Universidad Nacional Pedro Ruiz Gallo.
+                    Tengo experiencia en diferentes campos como Desarrollador de software en SUPLOS(Colombia), Satélite Perú, la municipalidad de Chiclayo, en Hidronorte SRL  y otras empresas. También en soporte técnico en el área de Tecnología de Información del Hospital regional de Lambayeque, en la Universidad Nacional Pedro Ruiz Gallo.
                   </p>
                   <p class="lead">
                     👉 Estudio la carrera de Ingenieria de Sistemas.
                   </p>
                   <p class="lead">
-                    👉 Hablo el idioma español e ingles(Básico).
+                    👉 Hablo el idioma español e ingles(Técnico).
                   </p>
                 </div>
               </div>
@@ -330,7 +325,7 @@
               <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">9</p>
+              <p class="counter">24</p>
               <span class="counter-text">CERTIFICADOS</span>
             </div>
           </div>
@@ -825,7 +820,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright 2020 <strong>Junior Javier Sanchez</strong>. </p>
+              <p class="copyright">&copy; Copyright 2022 <strong>Junior Javier Sánchez</strong>. </p>
               <div class="credits" style="color: #1b6ed9;">
                 <!--
                   All the links in the footer should remain intact.
