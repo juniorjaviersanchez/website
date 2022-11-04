@@ -18,7 +18,7 @@
   <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">   <!-- https://ionic.io/ionicons/v2-->
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
@@ -758,6 +758,15 @@
             </a>
           </div>
         </div>
+
+        <div class="col-md-12 text-center">
+          <a href="certifications.php">
+            <button type="submit"  class="button btn-success button-big button-rouded" >
+              Ver más <i class="ion-ios-redo"></i> 
+            </button>
+          </a>   
+        </div>
+
       </div>
     </div>
   </section>

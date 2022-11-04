@@ -44,7 +44,9 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">Junior</a>
+      <a class="navbar-brand js-scroll" href="index.php">
+      <img src="img/javier-logo-blanco.png" class="img-fluid rounded b-shadow-a img-logo-dinamico" alt="" width="125">
+      </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
