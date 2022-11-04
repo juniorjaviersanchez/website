@@ -44,7 +44,10 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">Junior</a>
+      <a class="navbar-brand js-scroll" href="#page-top">
+        <!-- Javier -->
+        <img src="img/javier-logo-blanco.png" class="img-fluid rounded b-shadow-a img-logo-dinamico" alt="" width="125">
+      </a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -99,7 +102,7 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">Soy Junior Javier Sánchez</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">Diseñador Web,Desarrollador Web,Frontend Developer,Graphic Designer</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">Desarrollador Web, FRONTEND, BACKEND, FULLSTACK</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -122,10 +125,10 @@
                   </div>
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
-                      <p><span class="title-s">Nombre: </span> <span>Junior Javier Sánchez</span></p>
-                      <p><span class="title-s">Perfil: </span> <span>Desarrollador BACK-END</span></p>
+                      <p class="text-center border-bottom"><span class="title-s"></span> <span>JUNIOR JAVIER SÁNCHEZ</span></p> 
+                      <p><span class="title-s">Perfil: </span> <span>Desarrollador FULLSTACK</span></p>
                       
-                      <p><span class="title-s">Celular: </span> <span>927594391</span></p>
+                      <p><span class="title-s">Celular: </span> <span>+51 927594391</span></p>
                       <p>Juniorjaviersanchezz@gmail.com</span></p>
                     </div>
                   </div>
@@ -163,10 +166,10 @@
                     Tengo experiencia en diferentes campos como Desarrollador de software en SUPLOS(Colombia), Satélite Perú, la municipalidad de Chiclayo, en Hidronorte SRL  y otras empresas. También en soporte técnico en el área de Tecnología de Información del Hospital regional de Lambayeque, en la Universidad Nacional Pedro Ruiz Gallo.
                   </p>
                   <p class="lead">
-                    👉 Estudio la carrera de Ingenieria de Sistemas.
+                    👉 Ingeniero de Sistemas.
                   </p>
                   <p class="lead">
-                    👉 Hablo el idioma español e ingles(Técnico).
+                    👉 Hablo el idioma español e inglés(Técnico).
                   </p>
                 </div>
               </div>
@@ -198,19 +201,6 @@
         <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
-              <span class="ico-circle"><i class="ion-monitor"></i></span>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">Diseño Web</h2>
-              <p class="s-description text-center">
-                Páginas totalmente únicas y atractivas que se adaptan al tipo del diseño de negocio o marca personal
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="service-box">
-            <div class="service-ico">
               <span class="ico-circle"><i class="ion-code-working"></i></span>
             </div>
             <div class="service-content">
@@ -221,6 +211,20 @@
             </div>
           </div>
         </div>
+        <div class="col-md-4">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-monitor"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Diseño Web</h2>
+              <p class="s-description text-center">
+                Páginas totalmente únicas y atractivas que se adaptan al tipo del diseño de negocio o marca personal
+              </p>
+            </div>
+          </div>
+        </div>
+        
         <!--<div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
@@ -249,7 +253,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <!--<div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="ion-paintbrush"></i></span>
@@ -261,7 +265,7 @@
               </p>
             </div>
           </div>
-        </div>
+        </div>-->
         <!--<div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
