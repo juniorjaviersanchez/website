@@ -356,6 +356,46 @@
       </div>
       <div class="row">
 
+      <div class="col-md-4">
+          <div class="work-box">
+            <a href="img/portafolio/porject_jgyservima.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/portafolio/porject_jgyservima.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <h2 class="w-title">JGY Servicios y Maquinaria</h2>
+                    <div class="w-more">
+                      <span ><a href="https://jgyservima.com/" target="_blank" class="w-ctegory">Ver Página</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="work-box">
+            <a href="img/portafolio/porject_ceconp.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/portafolio/porject_ceconp.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <h2 class="w-title">Ceconp</h2>
+                    <div class="w-more">
+                      <span ><a href="https://ceconp.com/" target="_blank" class="w-ctegory">Ver Página</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
         <div class="col-md-4">
           <div class="work-box">
             <a href="img/puntoflotante.png" data-lightbox="gallery-mf">
@@ -375,8 +415,6 @@
             </a>
           </div>
         </div>
-
-
 
         <div class="col-md-4">
           <div class="work-box">
@@ -487,11 +525,6 @@
                       <span ><a href="#" class="w-ctegory">Ver Página</a></span> / <span class="w-date">2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
-                    </div>
-                  </div>
                 </div>
               </div>
             </a>
@@ -509,11 +542,6 @@
                     <h2 class="w-title">Diseña tu Web</h2>
                     <div class="w-more">
                       <span ><a href="https://junnixpro.github.io/DisenaTuWeb/" target="_blank" class="w-ctegory">Ver Página</a></span> / <span class="w-date">2020</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
                     </div>
                   </div>
                 </div>
@@ -535,11 +563,6 @@
                       <span ><a href="#" target="_blank" class="w-ctegory">Ver Página</a></span> / <span class="w-date">2018</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
-                    </div>
-                  </div>
                 </div>
               </div>
             </a>
@@ -559,9 +582,175 @@
                       <span ><a href="#" target="_blank"  class="w-ctegory">Ver Página</a></span> / <span class="w-date">2020</span>
                     </div>
                   </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <span class="ion-ios-plus-outline"></span>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--/ Section Portfolio End /-->
+
+  <!--/ Section certifications Star /-->
+  <section id="work" class="portfolio-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="title-box text-center">
+            <h3 class="title-a">
+              Certificados
+            </h3>
+            <p class="subtitle-a">
+            </p>
+            <div class="line-mf"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_basico_de_javascript_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_basico_de_javascript_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/1814-basico-javascript/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_php_arreglos_funciones_estructuras_junior_javier_sanchez.png" data-lightbox="gallery-1">
+              <div class="work-img">
+                <img src="img/certifications/curso_php_arreglos_funciones_estructuras_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="w-more">
+                      <span class="w-ctegory"><a href="https://platzi.com/p/juniorjaviersanchez/curso/2794-php-arreglos-funciones/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_practico_sql_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_practico_sql_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2059-practico-sql/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_php_instalacion_fundamentos_operadores_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_php_instalacion_fundamentos_operadores_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2646-php/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_practico_php_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_practico_php_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2516-php-practico/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_backend_con_node_js_api_rest_express_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_backend_con_node_js_api_rest_express_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2485-backend-nodejs/diploma/detalle/" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_fundamentos_angular_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_fundamentos_angular_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2478-angular/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="work-box">
+            <a href="img/certifications/curso_educacion_financiera_junior_javier_sanchez.png" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/certifications/curso_educacion_financiera_junior_javier_sanchez.png" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <div class="w-more">
+                      <span ><a href="https://platzi.com/p/juniorjaviersanchez/curso/2166-intro-finanzas/diploma/detalle/" target="_blank" class="w-ctegory">Validar certificado</a></span> / <span class="w-date">2022</span>
                     </div>
                   </div>
                 </div>
@@ -572,7 +761,7 @@
       </div>
     </div>
   </section>
-  <!--/ Section Portfolio End /-->
+  <!--/ Section Certifications End /-->
 
   <!--/ Section Testimonials Star /-->
   <!--<div class="testimonials paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
