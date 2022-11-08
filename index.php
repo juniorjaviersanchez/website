@@ -120,7 +120,7 @@
                 <div class="row">
                   <div class="col-sm-6 col-md-5">
                     <div class="about-img">
-                      <img src="img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      <img src="img/testimonial-2.webp" class="img-fluid rounded b-shadow-a" alt="">
                     </div>
                   </div>
                   <div class="col-sm-6 col-md-7">
@@ -286,7 +286,7 @@
   </section>
   <!--/ Section Services End /-->
 
-  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/counters-bg.jpg)">
+  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/counters-bg.webp)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
@@ -398,9 +398,9 @@
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/puntoflotante.png" data-lightbox="gallery-mf">
+            <a href="img/puntoflotante.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/puntoflotante.png" alt="" class="img-fluid">
+                <img src="img/puntoflotante.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -454,9 +454,9 @@
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-1.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-1.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-1.jpg" alt="" class="img-fluid">
+                <img src="img/work-1.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -474,9 +474,9 @@
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-2.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-2.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-2.jpg" alt="" class="img-fluid">
+                <img src="img/work-2.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -494,9 +494,9 @@
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-3.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-3.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-3.jpg" alt="" class="img-fluid">
+                <img src="img/work-3.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -513,9 +513,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-4.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-4.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-4.jpg" alt="" class="img-fluid">
+                <img src="img/work-4.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -532,9 +532,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-5.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-5.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-5.jpg" alt="" class="img-fluid">
+                <img src="img/work-5.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -551,9 +551,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-6.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-6.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-6.jpg" alt="" class="img-fluid">
+                <img src="img/work-6.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -570,9 +570,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-7.jpg" data-lightbox="gallery-mf">
+            <a href="img/work-7.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/work-7.jpg" alt="" class="img-fluid">
+                <img src="img/work-7.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -927,7 +927,7 @@
   <!--/ Section Blog End /-->
 
   <!--/ Section Contact-Footer Star /-->
-  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
+  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.webp)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
