@@ -78,7 +78,6 @@
               Extras
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="aplicaciones.php">Aplicaciones</a>
               <a class="dropdown-item" href="#">Vida Financiera</a>
             </div>
           </li>
@@ -628,7 +627,7 @@
           <div class="col-sm-12">
             <div class="copyright-box">
               <p class="copyright">&copy; Copyright 2022 <strong>Junior Javier Sánchez</strong>. </p>
-              <div class="credits" style="color: #1b6ed9;">
+              <div class="credits" style="color: #4a9efc;">
                 <!--
                   All the links in the footer should remain intact.
                   You can delete the links only if you purchased the pro version.

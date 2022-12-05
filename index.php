@@ -80,7 +80,6 @@
               Extras
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              <a class="dropdown-item" href="aplicaciones.php">Aplicaciones</a>
               <a class="dropdown-item" href="vidaFinanciera.php">Vida Financiera</a>
             </div>
           </li>
