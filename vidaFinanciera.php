@@ -17,10 +17,7 @@
 
   <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
@@ -236,10 +233,10 @@
                   </div>
                   <div class="socials">
                     <ul>
-                      <li><a href="https://web.facebook.com/profile.php?id=100006920680461&_rdc=1&_rdr" target="_blank"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                      <li><a href="https://www.instagram.com/juniorjaviersanchezzz/?hl=es-la" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                      <li><a href="https://pe.linkedin.com/in/junior-javier-s%C3%A1nchez-1556521a3?trk=people-guest_people_search-card" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                      <li><a href="https://web.facebook.com/profile.php?id=100006920680461&_rdc=1&_rdr" target="_blank"><span class="ico-circle">  <i class="fa fa-facebook" aria-hidden="true"></i>  </span></a></li>
+                      <li><a href="https://www.instagram.com/juniorjaviersanchezzz/?hl=es-la" target="_blank"><span class="ico-circle"> <i class="fa fa-instagram" aria-hidden="true"></i> </span></a></li>
+                      <li><a href=""><span class="ico-circle"> <i class="fa fa-twitter" aria-hidden="true"></i> </span></a></li>
+                      <li><a href="https://pe.linkedin.com/in/junior-javier-s%C3%A1nchez-1556521a3?trk=people-guest_people_search-card" target="_blank"><span class="ico-circle"> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </span></a></li>
                     </ul>
                   </div>
                 </div>
@@ -254,7 +251,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright 2022 <strong>Junior Javier Sánchez</strong>. </p>
+              <p class="copyright">&copy; Copyright 2023 <strong>Junior Javier Sánchez</strong>. </p>
               <div class="credits" style="color: #4a9efc;">
                 <!--
                   All the links in the footer should remain intact.

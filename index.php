@@ -1021,7 +1021,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright 2022 <strong>Junior Javier Sánchez</strong>. </p>
+              <p class="copyright">&copy; Copyright 2023 <strong>Junior Javier Sánchez</strong>. </p>
               <div class="credits" style="color: #1b6ed9;">
                 <!--
                   All the links in the footer should remain intact.
