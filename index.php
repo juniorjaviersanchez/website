@@ -17,10 +17,7 @@
 
   <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">   <!-- https://ionic.io/ionicons/v2-->
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
@@ -200,7 +197,7 @@
         <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
-              <span class="ico-circle"><i class="ion-code-working"></i></span>
+              <span class="ico-circle"><i class="fa fa-code" aria-hidden="true"></i></span>
             </div>
             <div class="service-content">
               <h2 class="s-title">Desarrollo Web</h2>
@@ -213,7 +210,7 @@
         <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
-              <span class="ico-circle"><i class="ion-monitor"></i></span>
+              <span class="ico-circle"><i class="fa fa-laptop" aria-hidden="true"></i></span>
             </div>
             <div class="service-content">
               <h2 class="s-title">Diseño Web</h2>
@@ -242,7 +239,7 @@
         <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
-              <span class="ico-circle"><i class="ion-android-phone-portrait"></i></span>
+              <span class="ico-circle"> <i class="fa fa-mobile" aria-hidden="true"></i> </span>
             </div>
             <div class="service-content">
               <h2 class="s-title">Diseño Responsivo</h2>
@@ -292,7 +289,7 @@
         <div class="col-sm-3 col-lg-3">
           <div class="counter-box">
             <div class="counter-ico">
-              <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
+              <span class="ico-circle"> <i class="fa fa-check" aria-hidden="true"></i> </span>
             </div>
             <div class="counter-num">
               <p class="counter">35</p>
@@ -303,7 +300,7 @@
         <div class="col-sm-3 col-lg-3">
           <div class="counter-box pt-4 pt-md-0">
             <div class="counter-ico">
-              <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
+              <span class="ico-circle"> <i class="fa fa-calendar-o" aria-hidden="true"></i> </span>
             </div>
             <div class="counter-num">
               <p class="counter">3</p>
@@ -314,7 +311,7 @@
         <div class="col-sm-3 col-lg-3">
           <div class="counter-box pt-4 pt-md-0">
             <div class="counter-ico">
-              <span class="ico-circle"><i class="ion-ios-people"></i></span>
+              <span class="ico-circle"> <i class="fa fa-users" aria-hidden="true"></i> </span>
             </div>
             <div class="counter-num">
               <p class="counter">25</p>
@@ -325,7 +322,7 @@
         <div class="col-sm-3 col-lg-3">
           <div class="counter-box pt-4 pt-md-0">
             <div class="counter-ico">
-              <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
+              <span class="ico-circle"> <i class="fa fa-certificate" aria-hidden="true"></i> </span>
             </div>
             <div class="counter-num">
               <p class="counter">24</p>
@@ -761,7 +758,7 @@
         <div class="col-md-12 text-center">
           <a href="certifications.php">
             <button type="submit"  class="button btn-success button-big button-rouded" >
-              Ver más <i class="ion-ios-redo"></i> 
+              Ver más <i class="fa fa-chevron-right" aria-hidden="true"></i> <i class="fa fa-chevron-right" aria-hidden="true"></i> 
             </button>
           </a>   
         </div>
@@ -996,10 +993,10 @@
                   </div>
                   <div class="socials">
                     <ul>
-                      <li><a href="https://web.facebook.com/profile.php?id=100006920680461&_rdc=1&_rdr" target="_blank"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                      <li><a href="https://www.instagram.com/juniorjaviersanchezzz/?hl=es-la" target="_blank"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                      <li><a href="https://pe.linkedin.com/in/junior-javier-s%C3%A1nchez-1556521a3?trk=people-guest_people_search-card" target="_blank"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                      <li><a href="https://web.facebook.com/profile.php?id=100006920680461&_rdc=1&_rdr" target="_blank"><span class="ico-circle">  <i class="fa fa-facebook" aria-hidden="true"></i>  </span></a></li>
+                      <li><a href="https://www.instagram.com/juniorjaviersanchezzz/?hl=es-la" target="_blank"><span class="ico-circle"> <i class="fa fa-instagram" aria-hidden="true"></i> </span></a></li>
+                      <li><a href=""><span class="ico-circle"> <i class="fa fa-twitter" aria-hidden="true"></i> </span></a></li>
+                      <li><a href="https://pe.linkedin.com/in/junior-javier-s%C3%A1nchez-1556521a3?trk=people-guest_people_search-card" target="_blank"><span class="ico-circle"> <i class="fa fa-linkedin-square" aria-hidden="true"></i> </span></a></li>
                     </ul>
                   </div>
 
