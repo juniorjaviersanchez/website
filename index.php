@@ -354,9 +354,9 @@
 
       <div class="col-md-4">
           <div class="work-box">
-            <a href="img/portafolio/porject_jgyservima.png" data-lightbox="gallery-mf">
+            <a href="img/portafolio/porject_jgyservima.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/portafolio/porject_jgyservima.png" alt="" class="img-fluid">
+                <img src="img/portafolio/porject_jgyservima.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -374,9 +374,9 @@
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/portafolio/porject_ceconp.png" data-lightbox="gallery-mf">
+            <a href="img/portafolio/porject_ceconp.webp" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/portafolio/porject_ceconp.png" alt="" class="img-fluid">
+                <img src="img/portafolio/porject_ceconp.webp" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
