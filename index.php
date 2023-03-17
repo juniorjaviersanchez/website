@@ -352,9 +352,26 @@
       </div>
       <div class="row">
 
-      <div class="col-md-4">
+        <div class="col-md-4">
           <div class="work-box">
-            <a href="img/portafolio/porject_jgyservima.webp" data-lightbox="gallery-mf">
+              <div class="work-img">
+                <img src="img/portafolio/quien-es-ese-pokemon-vue.webp" alt="" class="img-fluid">
+              </div>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-12">
+                    <h2 class="w-title">¿Quién es este pokémon?</h2>
+                    <div class="w-more">
+                      <span ><a href="https://game-vue-quien-es-ese-pokemon.netlify.app/" target="_blank" class="w-ctegory">Ver proyecto</a></span> / <span class="w-date"> Vue /2023</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="work-box">
               <div class="work-img">
                 <img src="img/portafolio/porject_jgyservima.webp" alt="" class="img-fluid">
               </div>
@@ -368,13 +385,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/portafolio/porject_ceconp.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/portafolio/porject_ceconp.webp" alt="" class="img-fluid">
               </div>
@@ -388,13 +403,12 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/puntoflotante.webp" data-lightbox="gallery-mf">
+            
               <div class="work-img">
                 <img src="img/puntoflotante.webp" alt="" class="img-fluid">
               </div>
@@ -408,13 +422,12 @@
                   </div>
                 </div>
               </div>
-            </a>
+            
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/ventapollos/pollo1.png" data-lightbox="gallery-1">
               <div class="work-img">
                 <img src="img/ventapollos/pollo1.png" alt="" class="img-fluid">
               </div>
@@ -428,29 +441,11 @@
                   </div>
                 </div>
               </div>
-            </a>
-            <a href="img/ventapollos/pollo2.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo3.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo4.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo5.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo6.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo7.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo8.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo9.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo10.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo11.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo12.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo13.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo14.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo15.png" data-lightbox="gallery-1"></a>
-            <a href="img/ventapollos/pollo16.png" data-lightbox="gallery-1"></a>
-            
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-1.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-1.webp" alt="" class="img-fluid">
               </div>
@@ -464,13 +459,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-2.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-2.webp" alt="" class="img-fluid">
               </div>
@@ -484,13 +477,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
 
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-3.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-3.webp" alt="" class="img-fluid">
               </div>
@@ -504,12 +495,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
+
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-4.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-4.webp" alt="" class="img-fluid">
               </div>
@@ -523,12 +513,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
+
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-5.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-5.webp" alt="" class="img-fluid">
               </div>
@@ -542,12 +531,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
+
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-6.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-6.webp" alt="" class="img-fluid">
               </div>
@@ -561,12 +549,11 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
+
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/work-7.webp" data-lightbox="gallery-mf">
               <div class="work-img">
                 <img src="img/work-7.webp" alt="" class="img-fluid">
               </div>
@@ -580,7 +567,6 @@
                   </div>
                 </div>
               </div>
-            </a>
           </div>
         </div>
       </div>
